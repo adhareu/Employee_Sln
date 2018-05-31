@@ -1,0 +1,9 @@
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\Asset.Infrastructure.dll.config
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\Asset.Infrastructure.dll
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\Asset.Infrastructure.pdb
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\EntityFramework.dll
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\EntityFramework.xml
+E:\Projects\Employee_Sln\Asset.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\Employee_Sln\Asset.Infrastructure\obj\Release\Asset.Infrastructure.dll
+E:\Projects\Employee_Sln\Asset.Infrastructure\obj\Release\Asset.Infrastructure.pdb

@@ -1,0 +1,13 @@
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\Asset.Model.dll.config
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\Asset.Model.dll
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\Asset.Model.pdb
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\Asset.Infrastructure.dll
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\CommonServiceLocator.dll
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\EntityFramework.dll
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\Asset.Infrastructure.pdb
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\EntityFramework.xml
+E:\Projects\Employee_Sln\Asset.Model\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\Employee_Sln\Asset.Model\obj\Release\Asset.Model.csprojResolveAssemblyReference.cache
+E:\Projects\Employee_Sln\Asset.Model\obj\Release\Asset.Model.dll
+E:\Projects\Employee_Sln\Asset.Model\obj\Release\Asset.Model.pdb

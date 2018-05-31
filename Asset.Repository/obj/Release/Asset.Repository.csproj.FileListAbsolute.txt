@@ -1,0 +1,11 @@
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Repository.dll
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Repository.pdb
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Infrastructure.dll
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Model.dll
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\EntityFramework.dll
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Infrastructure.pdb
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\Asset.Model.pdb
+E:\Projects\Employee_Sln\Asset.Repository\bin\Release\EntityFramework.xml
+E:\Projects\Employee_Sln\Asset.Repository\obj\Release\Asset.Repository.csprojResolveAssemblyReference.cache
+E:\Projects\Employee_Sln\Asset.Repository\obj\Release\Asset.Repository.dll
+E:\Projects\Employee_Sln\Asset.Repository\obj\Release\Asset.Repository.pdb

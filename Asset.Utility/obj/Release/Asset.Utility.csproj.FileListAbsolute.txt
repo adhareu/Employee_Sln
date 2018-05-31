@@ -1,0 +1,4 @@
+E:\Projects\Employee_Sln\Asset.Utility\bin\Release\Asset.Utility.dll
+E:\Projects\Employee_Sln\Asset.Utility\bin\Release\Asset.Utility.pdb
+E:\Projects\Employee_Sln\Asset.Utility\obj\Release\Asset.Utility.dll
+E:\Projects\Employee_Sln\Asset.Utility\obj\Release\Asset.Utility.pdb
